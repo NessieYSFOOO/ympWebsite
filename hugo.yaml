@@ -1,0 +1,48 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Yellow Mongoose Project'
+
+theme: "hextra"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - name: Info
+      pageRef: /info
+      weight: 1
+    - name: Blog
+      pageRef: /blog
+      weight: 2
+    - name: About
+      pageRef: /info/about
+      weight: 3
+    - name: Contact
+      pageRef: /info/contact
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+
+params:
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: img/logo.png
+      dark: img/logo.png
+      link: /
+      width: 100
+      height: 20
