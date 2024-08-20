@@ -2,7 +2,6 @@
 title: 'Information'
 date: '2024-08-19T18:29:17+02:00'
 type: docs
-draft: true
 tags: []
 ---
 

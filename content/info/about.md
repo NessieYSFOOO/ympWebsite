@@ -5,3 +5,5 @@ type: docs
 draft: true
 tags: []
 ---
+
+Here is some general information about YMP.
