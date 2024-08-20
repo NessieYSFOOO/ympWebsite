@@ -1,7 +1,7 @@
 ---
 title: 'New Website'
 date: 2024-08-01T19:01:26+02:00
-draft: true
+draft: false
 ---
 
 Welcome to the burrow.
