@@ -10,4 +10,3 @@ tags: []
 Here is a list of topics of reasearch on yellow mongooses.
 
 - [Vocalizations](./vocalizations) of yellow mongooses
-- Are YM responsible for global warming?
