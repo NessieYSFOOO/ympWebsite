@@ -6,4 +6,4 @@ draft: true
 tags: []
 ---
 
-This is where we would provide information about the research on vocalisations.
+This is where we would provide information about the research on vocalizations.

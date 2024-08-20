@@ -14,8 +14,8 @@ menu:
     - name: Info
       pageRef: /info
       weight: 1
-    - name: Blog
-      pageRef: /blog
+    - name: News
+      pageRef: /news
       weight: 2
     - name: About
       pageRef: /info/about
@@ -29,6 +29,11 @@ menu:
         type: search
 
 params:
+  footer:
+    enable: true
+    displayPoweredBy: false
+    displayCopyright: true
+
   search:
     enable: true
     type: flexsearch

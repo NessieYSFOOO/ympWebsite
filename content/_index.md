@@ -4,8 +4,7 @@ date: 2024-08-01T20:03:39+02:00
 draft: false
 ---
 
-Here is some catchy info about the YMP.
-Some kind of catchy tagline that grabs the visitors attention.
+<img src="/img/prey-cartoon.png" style="height:300px"/>
 
 <style>
 .cta-container {
@@ -14,7 +13,6 @@ Some kind of catchy tagline that grabs the visitors attention.
 }
 .cta {
     border-radius: 1.5em;
-    border: 1px solid #ddd;
     padding: 1em;
     color: #444;
     text-decoration: none;
@@ -27,6 +25,7 @@ Some kind of catchy tagline that grabs the visitors attention.
     box-shadow: 2px 10px 20px 1px #ddd;
 }
 </style>
+
 
 <div class="cta-container">
 <a href="info" class="cta">
