@@ -48,6 +48,6 @@ params:
     logo:
       path: img/logo.png
       dark: img/logo.png
-      link: /
+      link: /ympWebsite    # TODO: change when hosted on custom domain
       width: 100
       height: 20
