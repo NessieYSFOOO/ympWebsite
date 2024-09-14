@@ -4,7 +4,7 @@ date: 2024-08-01T20:03:39+02:00
 draft: false
 ---
 
-<img src="/img/prey-cartoon.png" style="height:300px"/>
+<img src="img/prey-cartoon.png" style="height:300px"/>
 
 <style>
 .cta-container {
